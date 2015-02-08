@@ -1,7 +1,14 @@
 HaroldCoin (HAROLD)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/haroldcoin.png?branch=master)](https://travis-ci.org/RazorLove/haroldcoin)
+A coin for the almighty god at reddit.com/r/youdontsurf
 
+<h1>Facts about this coin</h1>
+===========
+1 minute block times
 
-Scrypt Hashcash PoW Template
+the diffuculty of this coin changes every day you little peace of shiz
+
+1000000000000 MAX COINS
+
+runs scypt
